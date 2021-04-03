@@ -11,6 +11,7 @@ def main(argv):
     # s = set(seasons)
     # data.filter_by_feature(data, "season", s)
     data.print_details(the_data, ["cnt"], statistic_functions)
+    pass
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
